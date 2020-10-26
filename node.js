@@ -1716,4 +1716,4 @@ client.on("message", message => {
   }
 });
 
-client.login("NzU1OTQzNTQ3OTg3MDM0MTIz.X2KpSg.jOZHImg8VY2IPlvu8EipQlfv7aE");
+client.login("NzQ3NDYwMDE1ODg3MjIwODQ3.X0PMYg.1d3uvJs1EKFgKa2oLKnHSHEIEDo");
