@@ -10,7 +10,7 @@ setInterval(() => {
 }, 280000);
 
 const Discord = require("discord.js");
-const client = new Discord.Client();
+const bot = new Discord.Client();
 const moment = require("moment"); //////     DEV SHETA   //////
 const zalgo = require("zalgolize");
 const math = require("math-expression-evaluator"); //////      DEV SANFUR //////
